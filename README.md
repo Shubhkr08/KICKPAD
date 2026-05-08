@@ -30,7 +30,7 @@ This is a Xiao Rp2040  Based MicroPad , It has 9 Switches , a roter encode and a
 |-----|------------------|------|-------------|
 | 1 | Xiao RP2040 + Rotary Encoder | — | Already have |
 | 10 | Diodes | — | Already have |
-| 10 | Kailh Hot-Swap Switch Sockets | https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/kailh-hot-swap-socket/ | 1.95 |
+| 10 | Kailh Hot-Swap Switch Sockets + shipping | https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/kailh-hot-swap-socket/ | 1.95 |
 | 1 | Keycaps and Switches | — | Already have |
 
 ---

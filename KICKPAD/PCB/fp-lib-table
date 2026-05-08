@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "KING")(type "KiCad")(uri "C:/Users/itism/OneDrive/文档/Aa")(options "")(descr ""))
+  (lib (name "QI")(type "KiCad")(uri "C:/Users/itism/Downloads/KiCad-SSD1306_OLED-0.91-128x32-master (2)/KiCad-SSD1306_OLED-0.91-128x32-master")(options "")(descr ""))
+  (lib (name "gty")(type "KiCad")(uri "C:/Users/itism/Downloads/OPL_Kicad_Library-master/OPL_Kicad_Library-master/Seeed Studio XIAO Series Library")(options "")(descr ""))
+  (lib (name "Hot Swap")(type "KiCad")(uri "C:/Users/itism/Downloads/acheron_MXH.pretty-master/acheron_MXH.pretty-master")(options "")(descr ""))
+)
